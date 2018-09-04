@@ -1,0 +1,11 @@
+change wifi = dmenu -> nm-applet
+ 
+https://askubuntu.com/questions/530955/how-to-install-utorrent-v3-3-on-14-04/530961 -> uTorrent shits
+
+utserver -settingspath /opt/utorrent-server-alpha-v3_3/ -> Start uTorrent server
+
+$ sudo bluetoothctl
+[bluetooth]# scan on     ->bluetooth
+[bluetooth]# pair 00:25:56:D1:36:6B
+
+
